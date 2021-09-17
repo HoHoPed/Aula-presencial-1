@@ -34,7 +34,8 @@ for (let index = 0; index < nomes.length; index++){
         
         console.log(atual + ": A peça não possui caracteres suficientes.")
     
-    }else {
+    }
+        else {
         console.log(atual + ": Pode ser cadastrada.")
     }
 
